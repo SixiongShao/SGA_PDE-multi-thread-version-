@@ -2,6 +2,8 @@
 
 Based on the original SGA–PDE (Y. Chen, 2022), this is a multi-thread version designed to increase population diversity and avoid a single-term PDE sweeping the entire population.
 
+Original SGA-PDE link: https://journals.aps.org/prresearch/abstract/10.1103/PhysRevResearch.4.023174
+
 ## Conceptual outline of SGA–PDE
 
 The Symbolic Genetic Algorithm for PDE discovery (SGA–PDE) targets equations of the generic form
